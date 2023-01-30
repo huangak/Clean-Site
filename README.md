@@ -9,3 +9,5 @@ Then add CSS to the original file:
 - padding, margin, border, outline, border-radius
 - flexbox
 and submit your CSS work as a zip file
+
+version1.0 by MARTIN
